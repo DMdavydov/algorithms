@@ -13,10 +13,7 @@ public class BubbleSort {
                 }
             }
         }
-
         System.out.println(Arrays.toString(array));
-
-
     }
 
     public static void swap(int[] array, int i, int j) {
